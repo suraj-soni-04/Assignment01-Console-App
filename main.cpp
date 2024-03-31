@@ -5,7 +5,7 @@
 #include<..\headers\Line.h>
 #include<..\headers\Triangle.h>
 #include<..\headers\Rectangle.h>
-using namespace std;
+using namespace std; 
 int main()
 {
     int ch;
